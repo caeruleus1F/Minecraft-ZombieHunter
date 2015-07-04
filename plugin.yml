@@ -1,0 +1,7 @@
+name: ZombieHunter
+main: com.gbates31.mczombiehunter.Main
+version: 1.0
+
+commands:
+  zh:
+    description: Zombie Hunter using minecraft blocks.
